@@ -18,7 +18,9 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 ### `App Screens`
-Material UI comming soon~~~ :)
+
+Material-UI maybe comming soon~~~ :)
+
 ![image](https://github.com/zhangwei9701/davtodo/blob/master/src/images/dav_act1.png)
 
 ![image](https://github.com/zhangwei9701/davtodo/blob/master/src/images/dav_act2.png)
@@ -26,9 +28,9 @@ Material UI comming soon~~~ :)
 ### `Thanks for backend jsonplaceholder data simulating`
 [jsonserver](https://jsonplaceholder.typicode.com/) 
 
-### MongoDB Comming soon~~~~:)
+### `MongoDB Comming soon~~~~:)`
 
 
-### Deployment
+### `Deployment`
 For Now, I am not going to spend $ for delopyment
 
